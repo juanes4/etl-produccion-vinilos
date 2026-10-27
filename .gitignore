@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+config.ini
+logs/
+salida/
+
+# Datos reales de la empresa (contienen nombres de operarios). En el repo solo va data/sample/.
+data/raw/
+~$*.xls*
